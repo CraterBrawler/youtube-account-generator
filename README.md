@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Type-Account+Generator-FF0000?style=for-the-badge&logo=youtube" />
 </p>
 
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="64" height="64" />
+</p>
+
 **⚡ YouTube Account Generator Free** — automated bulk account creation tool for YouTube. Creates verified accounts at scale with randomised profiles. Download for 2026. **No limits. No hidden fees.**
 
 <p align="center">
